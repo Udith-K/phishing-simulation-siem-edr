@@ -1,0 +1,5 @@
+campaign_id,email,time,message,details
+1,,2026-01-28T17:18:40.535537837Z,Campaign Created,
+1,test@company.com,2026-01-28T17:18:40.549496007Z,Error Sending Email,"{""error"":""Max connection attempts exceeded - dial tcp 127.0.0.1:25: connect: connection refused""}"
+1,test@company.com,2026-01-28T17:26:15.864481874Z,Clicked Link,"{""payload"":{""rid"":[""qEiVXrM""]},""browser"":{""address"":""127.0.0.1"",""user-agent"":""Mozilla/5.0 (X11; Linux x86_64; rv:140.0) Gecko/20100101 Firefox/140.0""}}"
+1,test@company.com,2026-01-28T17:27:13.293040976Z,Submitted Data,"{""payload"":{""email"":[""test@company.com""],""password"":[""Password123""],""rid"":[""qEiVXrM""]},""browser"":{""address"":""127.0.0.1"",""user-agent"":""Mozilla/5.0 (X11; Linux x86_64; rv:140.0) Gecko/20100101 Firefox/140.0""}}"
